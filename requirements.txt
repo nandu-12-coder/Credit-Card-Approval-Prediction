@@ -6,3 +6,8 @@ scikit-learn
 xgboost
 flask
 joblib
+Flask
+pandas
+numpy
+scikit-learn
+joblib
